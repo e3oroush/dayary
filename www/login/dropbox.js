@@ -21,9 +21,11 @@ if (localStorage.dropboxAuthToken) {
     window.location.href = "/dayary";
 }
 else {
-    var dropbox = new Dropbox({ clientId: "4hxwutae96fhhbd" });
+    var dropbox = new Dropbox({ clientId: "lxytl4933iajbwu" });
     var authUrl = dropbox.getAuthenticationUrl(
-        'https://barahilia.github.io/dayary/www/login/dropbox.html'
+        'https://e3oroush.github.io/dayary/www/login/dropbox.html'
+
+
     );
     window.location.href = authUrl;
 }
