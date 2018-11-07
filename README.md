@@ -3,7 +3,7 @@
 Dayary is a dairy tool that runs in a web app, ecrypts records and allows to
 sync them with a cloud storage.
 
-To use it simply browse https://barahilia.github.io/dayary in Chrome or Safary.
+To use it simply browse https://e3oroush.github.io/dayary in Chrome or Safary.
 
 All the records are storred locally, encrypted before save and decrypted at
 viewing or editing only. [Dropbox](https://www.dropbox.com/) can be used for
